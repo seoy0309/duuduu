@@ -12,7 +12,7 @@ let startFrame;
 
 function preload() {
   fishImg = loadImage("fishinging.png");
-  fishDieImg = loadImage("fishdieing.png");
+  fishDieImg = loadImage("fishdying.png");
   cigaretteImg = loadImage("smoking.png");
 }
 
